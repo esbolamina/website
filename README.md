@@ -30,7 +30,7 @@
     </style>
 </head>
 <body>
-    <button class="redirect-button" onclick="window.location.href='https://example.com'">
+    <button class="redirect-button" onclick="window.location.href='[https://example.com](https://esbolamina.wixsite.com/my-site-6)'">
         Сайтқа қош келдіңіз
     </button>
 </body>

@@ -31,6 +31,6 @@
 </head>
 <body>
     <button class="redirect-button" onclick="window.location.href='https://example.com'">
-        Go to Website
+        Сайтқа қош келдіңіз
     </button>
 </body>
